@@ -62,7 +62,7 @@ module.exports = {
       // Segment docs:
       //   - https://segment.com/docs/connections/sources/custom-domains
       //   - https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#proxy
-      host: `https://override-segment-endpoint`,
+     // host: `https://override-segment-endpoint`,
 
     
       delayLoad: false,
