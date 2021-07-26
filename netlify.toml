@@ -1,0 +1,5 @@
+[[redirects]]
+from = "https://australiansportscamps.com.au/book/"
+to = "https://australiansportscamps.com.au/book-a-camp/"
+status = 301
+force = false
